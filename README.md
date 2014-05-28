@@ -1,4 +1,5 @@
-raphazamb.github.io
+Readme.md
 ===================
-Read me file test to see what could happen using GitHub..
-Have a nice day!
+This repository was created to test me as user of GitHub.
+
+Rafael
